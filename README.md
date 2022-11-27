@@ -3,8 +3,7 @@ Coding portfolio
 
 About Me: 
 
-My name is Brooke Dietmeier and I am currently a freshman at the University of Washington. My intended major is either computer
-science or the school of informatics. I became interested in the technology world after taking AP computer science my junior year of high 
+My name is Brooke Dietmeier and I am currently a freshman at the University of Washington. I'm majoring in Informatics with a focus in Cybersecurity and minoring in Business. I became interested in the technology world after taking AP computer science my junior year of high 
 school. My high school computer science teacher was one of the first people that believed in my academic abilities and still to this day, challenges
 me to study and work hard in every facit of my studies. With the technology world being predominatly male dominated, I decided that I 
 wanted to challenge myself and work to influence the technology world with more educated and hardworking females. I have always been strongly influenced
